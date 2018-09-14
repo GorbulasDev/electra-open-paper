@@ -1,6 +1,6 @@
 # Electra White Paper - The Open Paper
 
-17 May 2018
+13 September 2018
 
 ### Abstract
 
@@ -143,20 +143,20 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 * Block Size: 1MB
 
-* Block Time: 5 minutes (288 blocks per day) >>> after blockchain fork >>> 90 seconds (960 blocks per day)
+* Block Time: 2.5 minutes (576 blocks per day)
 
-* Max Supply: 30,000,000,000
+* Maximum Supply: 30,000,000,000
 
 * Pre-mined: 1,000,000,019 (approximately 3.34%)
 
-* Difficulty Target: Retarget occurs every 15 minutes (every 3 blocks)
+* Difficulty Target: Retarget occurs every 15 minutes (every 7.5 blocks)
 
 * Fee: 0.00001 ECA
 
 
 ## Purpose and Use of Pre-mined ECA
 
-1,000,000,019 (Approximately 3.34%) ECA were pre-mined using Proof of Work (PoW) mining. Pre-mined funds are maintained by a trusted Community Funds Manager. Distribution and use of funds is determined by consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
+1,000,000,019 (Approximately 3.34%) ECA were pre-mined using Proof-of-Work (PoW) mining. Pre-mined funds are maintained by the Electra Foundation. Distribution and use of funds is determined by consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
 
 * Maintaining the security and usability of the platform
 
@@ -166,21 +166,21 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 ## Fast Payments
 
-ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than five minutes. After the upcoming hard fork, confirmations will require 90 seconds or less.
+ECA transactions are received in the recipient’s wallet almost instantly and the ECA received is spendable as soon as the transaction is confirmed in the blockchain. The confirmation process requires less than 2.5 minutes.
 
 ## Transaction Fees Approaching Zero
 
-With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.004 USD at time of this publication). The resulting cost per transaction is approximately $0.00000004.
+With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.001 USD at time of this publication).
 
 ## Staking Rewards
 
-Currently, ECA features a 50% annual stake reward rate as an introductory rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 10% in Q3 of 2018. After the staking reward reduces to 10%, it will halve to 5% the following year, and 2.5% every year thereafter. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
+Currently, ECA features a 2.5% annual stake reward rate. In order to increase the stability and longevity of the Electra Project, the annual stake reward rate will be reduced to 1.25% in Q4 of 2019. After the staking reward rate reduces to 1.25%, it will halve to 0.63% the following year, and by half every year thereafter. After eight years, the staking reward rate will be 0.002%. There is no fixed reward per block. Each stake reward is proportional to the amount staked relative to the total ECA in circulation. 
 
-Minimum stake age: 24 hours
+Minimum stake age: 12 hours
 
 Maximum stake age: 30 days
 
-Additional information regarding the Proof of Stake reward structure for ECA can be found at: 
+Additional information regarding the Proof-of-Stake reward structure for ECA can be found at: 
 
 * https://electraproject.org/crypto-wallet-staking-guide-electra-project
 
@@ -190,7 +190,7 @@ Future developments within the Electra ecosystem will allow for the use of priva
 
 * TOR
 
-* IP2 networks 
+* I2P Networks
 
 * Kovri
 
@@ -200,7 +200,7 @@ Users will be able to select the privacy functions best suited to their individu
 
 The NIST5 algorithm utilized by the ECA cryptocurrency is more environmentally friendly than competing technologies and has proven to be a sustainable option for deployment of blockchain-based systems. NIST5 requires significantly less energy to run than competing algorithms without compromising the security of network members. 
 
-Furthermore, Electra does not have an extended Proof of Work (PoW) phase. Electra’s blockchain network is now Proof of Stake (PoS) which results in no miners and a greatly reduced carbon footprint.
+Furthermore, Electra does not have an extended Proof-of-Work (PoW) phase. Electra’s blockchain network is now Proof-of-Stake (PoS) which results in no miners and a greatly reduced carbon footprint.
 
 # Future Technology
 
@@ -221,7 +221,7 @@ Despite the proliferation of technology across the globe, many developing region
 
 Electra’s family of products can be summarized into the following categories. Each product will be described in greater detail below.
 
-* Desktop Wallets  (Windows, Linux, Mac)
+* Desktop Wallets  (Windows&reg;, Linux, Mac)
 
 * Mobile Wallets (iOS & Android) 
 
@@ -370,7 +370,7 @@ Not all users want to install a desktop or mobile wallet. Electra’s Web Wallet
 
 * Mobile Extension Interface (Optional)
 
-The Mobile Extension Interface (MEI) allows the end user to access their web wallet from a personal device. The MEI integrates with other 3rd party applications (Whatsapp, Telegram, address book) allowing the user to employ the Electra SocialPay service to send ECA via Social Media.
+The Mobile Extension Interface (MEI) allows the end user to access their web wallet from a personal device. The MEI integrates with other third-party applications (WhatsApp, Telegram, Address Book) allowing the user to employ the Electra SocialPay service to send ECA via Social Media.
 
 ![image alt text](images/image_1.png)
 
@@ -944,7 +944,7 @@ Mrs.Bitmaid#9028 - User Support Specialist
 
 zusama59#6384 - User Support Specialist
 
-# Founder’s Vision
+# Founder's Vision
 
 *The main goals I had when creating Electra was for it to be able to remain active indefinitely and easy to use. A key component to achieve these goals is an active community. In less than a year, the community has progressed immensely and is a completely self-governing entity that can act without my interference. The whitepaper itself is written by the community which may be a first in the blockchain sector. The current parameters of Electra take into account security, privacy, speed and efficiency. It is a solid template to build upon.*
 
