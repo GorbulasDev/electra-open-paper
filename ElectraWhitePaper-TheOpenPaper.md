@@ -12,7 +12,7 @@ Electra is a unique cryptocurrency in that it is both a development project and 
 
 Electra is also a contract that offers the investor full participation in the development process, including but not limited to the following: 
 
-* Access to Electra community
+* Access to the Electra community
 
 * The right to obtain project information
 
@@ -153,14 +153,13 @@ The underlying blockchain of the ECA coin utilizes a modified version of the NIS
 
 * Fee: 0.00001 ECA
 
-
 ## Purpose and Use of Pre-mined ECA
 
 1,000,000,019 (Approximately 3.34%) ECA were pre-mined using Proof-of-Work (PoW) mining. Pre-mined funds are maintained by the Electra Foundation. Distribution and use of funds is determined by consensus. Pre-mined funds will be used for various purposes including but not limited to the following:
 
 * Maintaining the security and usability of the platform
 
-* Funding further development projects as outlined by Electra Roadmap
+* Funding further development projects as outlined by the Electra Roadmap
 
 * Application to new exchanges
 
@@ -170,7 +169,7 @@ ECA transactions are received in the recipient’s wallet almost instantly and t
 
 ## Transaction Fees Approaching Zero
 
-With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.001 USD at time of this publication).
+With transaction fees on the Electra network of 0.00001 ECA, it takes 100,000 transactions to accumulate one ECA worth of transaction fees (approximately $0.001 USD at the time of this publication).
 
 ## Staking Rewards
 
